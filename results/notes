@@ -1,0 +1,6 @@
+001.png		keep_prob=0.9,lr=1e-5,lr_decay_step=2,epoch=10
+002.png		keep_prob=0.99,lr=1e-5
+003.png		keep_prob=0.5,lr=1e-6
+004.png		keep_prob=0.5,lr=1e-7
+005.png		keep_prob=0.5,lr=1e-8
+005.png		keep_prob=0.5,lr=1e-6,lr_decay_step=4,epoch=20
