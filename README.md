@@ -3,7 +3,7 @@ USC CS621 Course Project
 
 Implementation of "A Deep Learning Approach for Generalized Speech Animation" based on tensorflow<br>
 Use the Penn Phonetics Lab Forced Aligner (P2FA) to extract phonemetic labels<br>
-Use the flame-fitting method for 2d-to-3d mapping ("FLAME, a lightweight and expressive generic face model")
+Use the flame-fitting method for 2d-to-3d mapping ("FLAME, a lightweight and expressive generic face model")<br>
 Use menpo to train the AAM model; this part is under the utilities folder
 
 Requirements:
